@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!!&desc=well%20come%20to%20my%20github&fontSize=100&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=Welcome%20my%20Github&section=footer&reversal=true&textBg=false" />
 
 
 <h3 align="center">⚡ Studying ⚡</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-F6CED8.svg?style=for-the-badge&logo=JAVA&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-F6CED8.svg?style=for-the-badge&logo=JAVA&logoColor=7F52FF" />
   <img src="https://img.shields.io/badge/Kotlin-CEF6CE?style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
 
@@ -25,4 +25,5 @@
 
 <h9>ㅤ</h9>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andire120&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andire120&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andire120&layout=compact)
