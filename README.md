@@ -4,9 +4,9 @@
 <h3 align="center">⚡ Studying ⚡</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-F6CED8.svg?style=for-the-badge&logo=JAVA&logoColor=7F52FF" />
-  <img src="https://img.shields.io/badge/Kotlin-CEF6CE?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-CEF6CE?style=for-the-badge&logo=Django&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Svelte-CEF6CE?style=for-the-badge&logo=Svelte&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Kotlin-yellow?style=for-the-badge&logo=kotlin&logoColor=A901DB" />
+  <img src="https://img.shields.io/badge/Django-CES6CE?style=for-the-badge&logo=Django&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Svelte-FE9A2E?style=for-the-badge&logo=Svelte&logoColor=red" />
 </div>
 
 
