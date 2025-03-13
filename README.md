@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/JAVA-F6CED8.svg?style=for-the-badge&logo=JAVA&logoColor=7F52FF" />
   <img src="https://img.shields.io/badge/Kotlin-CEF6CE?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-CEF6CE?style=for-the-badge&logo=Django&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Svelte-CEF6CE?style=for-the-badge&logo=Svelte&logoColor=blue" />
 </div>
 
 
