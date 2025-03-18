@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Kotlin-F5F6CE?style=for-the-badge&logo=kotlin&logoColor=A901DB" />
   <img src="https://img.shields.io/badge/Django-CEF6CE?style=for-the-badge&logo=Django&logoColor=blue" />
   <img src="https://img.shields.io/badge/Svelte-CED8F6?style=for-the-badge&logo=Svelte&logoColor=red" />
+  <img src="https://img.shields.io/badge/js-F8ECE0?style=for-the-badge&logo=js&logoColor=black" />
 </div>
 
 
