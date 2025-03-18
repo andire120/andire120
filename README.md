@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20andire's%20Github&section=footer&reversal=true&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20andire's%20Github&section=footer&reversal=true&textBg=false" />
 
 
 <h3 align="center">⚡ Studying ⚡</h3>
