@@ -1,11 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=Welcome%20andire's%20Github&section=footer&reversal=true&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20andire's%20Github&section=footer&reversal=true&textBg=false" />
 
 
 <h3 align="center">⚡ Studying ⚡</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-F6CED8.svg?style=for-the-badge&logo=JAVA&logoColor=7F52FF" />
   <img src="https://img.shields.io/badge/Kotlin-F5F6CE?style=for-the-badge&logo=kotlin&logoColor=A901DB" />
-  <img src="https://img.shields.io/badge/Django-CEF6CE?style=for-the-badge&logo=Django&logoColor=blue" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Svelte-CED8F6?style=for-the-badge&logo=Svelte&logoColor=red" />
   <img src="https://img.shields.io/badge/javascript-F8ECE0?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
